@@ -3,7 +3,7 @@ body * {
     margin: 0;
     padding: 0;
     vertical-align: top;
-    box-sizing: content-box;
+    box-sizing: border-box;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
@@ -30,8 +30,8 @@ body {
 
 .right-column {
     display: inline-block;
-    width: calc(60%-120px); 
-    padding: 113px;
+    width: 60%; 
+    padding: 60px;
     float: left;
     background-color: violet;
 }
