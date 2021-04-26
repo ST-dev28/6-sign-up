@@ -1,12 +1,12 @@
 - [x] pradine failu struktura
    - index.html
    - .gitignore
-- [ ] paviesinti projekta per Github Pages (gausim URL)
-- [ ] README.md
+- [x] paviesinti projekta per Github Pages (gausim URL)
+- [x] README.md
    - skirta aprasyti, kas, ka ir kodel daro
    - iterpti nuoroda i daroma dizaina
    - iterpti nuoroda, kur tas musu kodas g.b. pamatytas
-- [ ] atlikti dizaino analize
+- [x] atlikti dizaino analize
 - [ ] surasyti HTML
 - [ ] isikirpti nuotaukas ir jas panaudoti (istatyti tinkamas reiksmes i HTML)
    - panaudoti reliatyvu kelia

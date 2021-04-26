@@ -7,7 +7,7 @@
 
 _28 group website project_Sign-up
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only. 
 
 Site published at  https://st-dev28.github.io/6-sign-up/
 
