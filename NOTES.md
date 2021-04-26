@@ -15,7 +15,7 @@
    - turinys turi buti centre (tiek vertikaliai, tiek vertikaliai)
    - pagrindinis plotis t.b. fiksuotas (pikseliais, ne procentais)
 - [ ] atskiri puslapiai, kurie naviguoja "ratu"
-   - sign up
-   - sign in
-   - forgot password
-- stiliu (CSS) atskirti nuo HTML
+  - sign up
+  - sign in
+  - forgot password
+- [ ] css turi buti tik vienas failas, kur stiliaus taisykles veikia vienodai (identiskai) per visus puslapius
