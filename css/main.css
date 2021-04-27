@@ -89,13 +89,26 @@ input {
 }
 
 button {
-
+    float: left;
+    background-color:#044DD6;
+    border: 1px solid rgb(18, 18, 209);
+    color: white;
+    padding: 10px 30px 10px 30px;
+    font-size: 18px;
+    line-height: 20px;
+    border-radius: 21px;
 }
 
 .form-row > span {
-
+    float: left;
+    padding: 11px;
+    line-height: 20px;
+   
 }
 
 .form-row > a {
-
+    float: left;
+    text-decoration: none;
+    padding: 11px;
+    line-height: 20px;
 }
