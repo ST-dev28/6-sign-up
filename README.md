@@ -24,4 +24,4 @@ Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/6488
 
 ## Authors
 
-[Sandra] (https://github.com/ST-dev28)
+[Sandra](https://github.com/ST-dev28)
