@@ -31,12 +31,23 @@ input {
     line-height: 1.8em;
     border: none; 
     border-bottom: 2px solid #999;
+    padding: 0 10px;
 }
 
 ::placeholder {
     color: #999;
     font-style: italic;
 }
+
+input:focus {
+    background-color: rgb(165, 243, 248);
+
+}
+
+input:focus-visible {
+    outline-color: blue;
+}
+
 
 button {
     float: left;
@@ -47,6 +58,12 @@ button {
     font-size: 18px;
     line-height: 20px;
     border-radius: 21px;
+
+}
+
+button:hover {
+background-color: rgb(18, 18, 94);
+cursor: pointer;
 }
 
 .form-row > span {
