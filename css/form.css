@@ -41,13 +41,11 @@ input {
 
 input:focus {
     background-color: rgb(165, 243, 248);
-
 }
 
 input:focus-visible {
     outline-color: blue;
 }
-
 
 button {
     float: left;
@@ -58,7 +56,6 @@ button {
     font-size: 18px;
     line-height: 20px;
     border-radius: 21px;
-
 }
 
 button:hover {
@@ -70,7 +67,6 @@ cursor: pointer;
     float: left;
     padding: 11px;
     line-height: 20px;
-   
 }
 
 .form-row > a {
