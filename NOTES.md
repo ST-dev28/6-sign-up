@@ -7,18 +7,18 @@
    - iterpti nuoroda i daroma dizaina
    - iterpti nuoroda, kur tas musu kodas g.b. pamatytas
 - [x] atlikti dizaino analize
-- [ ] surasyti HTML
-- [ ] isikirpti nuotaukas ir jas panaudoti (istatyti tinkamas reiksmes i HTML)
+- [x] surasyti HTML
+- [x] isikirpti nuotaukas ir jas panaudoti (istatyti tinkamas reiksmes i HTML)
    - panaudoti reliatyvu kelia
    - PNG formatas (del permatomumo savybes)
-- [] aprasome stiliu: 
+- [x] aprasome stiliu: 
    - turinys turi buti centre (tiek vertikaliai, tiek vertikaliai)
    - pagrindinis plotis t.b. fiksuotas (pikseliais, ne procentais)
-- [ ] atskiri puslapiai, kurie naviguoja "ratu"
+- [x] atskiri puslapiai, kurie naviguoja "ratu"
   - sign up
   - sign in
   - forgot password
-- [ ] css turi buti tik vienas failas, kur stiliaus taisykles veikia vienodai (identiskai) per visus puslapius
+- [x] css turi buti tik vienas failas, kur stiliaus taisykles veikia vienodai (identiskai) per visus puslapius
 
 # Pozicionavimas
 
@@ -28,4 +28,5 @@
    b) paliekame tokia `position` savybe, kokia tas elementas turi, jei nenurodytas;
 
    Isvada:
-   absoliuciai pozicionuojamas elementas bus pastatytas artimiausio `position: relative` atzvilgiu
+   absoliuciai pozicionuojamas elementas bus pastatytas artimiausio ne `position: static` atzvilgiu. 
+   `postion: absolute` nera static !!!
